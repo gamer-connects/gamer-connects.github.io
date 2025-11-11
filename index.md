@@ -4,6 +4,18 @@ Gamer Connect is a web application that helps UH students discover and connect w
 
 # Future Additions
 
-## Landing Page
+### Landing Page
 
-The landing page will provide a brief summary of the web application, prompt users to sign up or log in, and have an option to learn more which will direct them to this page. The landing page is expected to look like: 
+The landing page will include: 
+
+- A short description of the app
+- Call-to-action buttons:
+  - Sign up
+  - Log in
+- A link that directs users to this page for more information
+
+The landing page is expected to look like:
+
+### Home Page
+
+The home page will include:
