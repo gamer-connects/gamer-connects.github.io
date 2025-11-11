@@ -16,7 +16,7 @@ The landing page will include:
 
 The landing page is expected to look like:
 
-![](images/landing_page_mockup_jpg)
+![](images/landing_page_mockup.jpg)
 
 ### Home Page
 
