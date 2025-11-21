@@ -1,65 +1,51 @@
 # Overview
 
-UH Connect is a web application that helps UH students discover and connect with other gamers on campus based on their favorite games, skill levels, gaming goals (casual play, ranked competition, streaming, etc.), and availability. By creating detailed gamer profiles, students can find like-minded players to form teams, join communities, or just find new friends to play with.
+Gamer Connect is a web application that helps UH students discover and connect with other gamers on campus based on their favorite games, skill levels, gaming goals (casual play, ranked competition, streaming, etc.), and availability. By creating detailed gamer profiles, students can find like-minded players to form teams, join communities, or just find new friends to play with.
 
-# Future Additions
+## What makes UH Connect special:
+
+- **Campus-Focused:** Exclusively for UH students, creating a trusted gaming community
+- **Interest Matching:** Advanced filtering by game preferences, play styles, and skill levels
+- **Event Discovery:** Centralized hub for gaming tournaments, LAN parties, and esports events on campus
+- **Personalized Recommendations:** AI-driven game and player suggestions based on user profiles
+- **Team Building:** Easy formation of competitive teams and casual gaming groups
+
+Unlike general gaming platforms like Discord or Reddit, UH Connect provides a curated, campus-specific environment where students can safely connect with verified UH peers who share their gaming interests.
+
+## Deployment
+
+**Live Application:** [https://project-uh-connect-wbxh.vercel.app](https://project-uh-connect-wbxh.vercel.app)
+
+## Links
+
+- **Team Contract:** [View Team Contract](https://docs.google.com/document/d/1T8ZwthSHFkZXGYaHPbhu9UNYf5ETw5f2L7wtiD0ZBfA/edit?tab=t.0)
+- **GitHub Organization:** [gamer-connects](https://github.com/gamer-connects)
+- **M1 Project Board:** [Milestone 1](https://github.com/orgs/gamer-connects/projects/1)
+- **M2 Project Board:** [Milestone 2](https://github.com/orgs/gamer-connects/projects/2)
+
+## User Guide
 
 ### Landing Page
 
-The landing page will include: 
+[Screenshot coming soon]
 
-- A short description of the app
-- Call-to-action buttons:
-  - Sign up
-  - Log in
-- A link that directs users to this page for more information
+### Sign Up/Sign In
 
-### Home/Dashboard Page
+[Screenshot coming soon]
 
-The home page will include:
+### User Profile Page
 
-- A quick overview of the available events
-- A navbar to access other pages on the website
+<img width="1225" height="670" alt="profile page mockup" src="https://github.com/user-attachments/assets/b08647fb-f3d5-44b9-9854-563af3919165" />
 
-### Profile Page
+### Home Page
 
-The profile page will include:
-
-- Customize display name and profile picture
-- Add user biography
-- List game interests and tags
-- Add game suggestion survey
-- Follower and Following counts
+[Screenshot coming soon]
 
 ### User Search Page
 
-The user search page will include:
+[Screenshot coming soon]
 
-- Filter by games, interests, and tags
-- Autocomplete based on suggested matches
-- Show recommended users
-
-### Admin Page
-
-The admin page will include:
-
-- Navigate to admin page @ navbar
-- Manage Users
-- Review flagged content/messages
-- Add user suggested games
-
-### Deployment
-
-- Live site: https://uh-connect.vercel.app/
-- GitHub organization site: https://github.com/gamer-connects
-- Repo site: https://github.com/gamer-connects/Project-UHConnect.git
-
-### Team Contract
-
-<img width="410" height="666" alt="Screenshot 2025-11-20 at 2 43 31 PM" src="https://github.com/user-attachments/assets/e1ab533c-57fd-4402-87d1-32012e3e0f96" />
-
-### Use case diagrams 
-
+## Use Case Diagrams
 
 <img width="677" height="382" alt="Screenshot 2025-11-20 at 2 33 58 PM" src="https://github.com/user-attachments/assets/9ecf4969-e691-45fb-86e2-80bb0ecc2ea2" />
 
@@ -67,22 +53,6 @@ The admin page will include:
 
 <img width="677" height="382" alt="Screenshot 2025-11-20 at 2 34 24 PM" src="https://github.com/user-attachments/assets/eb977521-8e4f-44f1-956d-60adb0227bf9" />
 
-### Risk Management Worksheet
+## Risk Management Worksheet
 
 <img width="429" height="290" alt="Screenshot 2025-11-20 at 2 45 15 PM" src="https://github.com/user-attachments/assets/bcf31318-0667-472e-aab9-53141ee36141" />
-
-### Milestone 1
-
-[Milestone 1 Project Board](https://github.com/orgs/gamer-connects/projects/1/views/3)
-
-### Milestone 2
-
-[Milestone 2 Project Board](https://github.com/orgs/gamer-connects/projects/2/views/3)
-
-### Team
-
--	Jenebryan Mercado
--	Andrew Bushong
--	Richard Masuda
--	Nalani Klopfenstein
--	Jiaxing Feng
