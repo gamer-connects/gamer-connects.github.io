@@ -51,6 +51,7 @@ The admin page will include:
 ### Deployment
 
 - Live site: https://uh-connect.vercel.app/
+- GitHub organization site: https://github.com/gamer-connects
 - Repo site: https://github.com/gamer-connects/Project-UHConnect.git
 
 ### Team Contract
@@ -73,6 +74,10 @@ The admin page will include:
 ### Milestone 1
 
 [Milestone 1 Project Board](https://github.com/orgs/gamer-connects/projects/1/views/3)
+
+### Milestone 2
+
+[Milestone 2 Project Board](https://github.com/orgs/gamer-connects/projects/2/views/3)
 
 ### Team
 
