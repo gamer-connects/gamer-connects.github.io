@@ -48,4 +48,12 @@ The admin page will include:
 - Review flagged content/messages
 - Add user suggested games
 
+### Use case diagrams 
+
+
+<img width="677" height="382" alt="Screenshot 2025-11-20 at 2 33 58 PM" src="https://github.com/user-attachments/assets/9ecf4969-e691-45fb-86e2-80bb0ecc2ea2" />
+
+<img width="677" height="382" alt="Screenshot 2025-11-20 at 2 34 13 PM" src="https://github.com/user-attachments/assets/b07db98c-7704-4fdb-ad7e-8154dddf5d5e" />
+
+<img width="677" height="382" alt="Screenshot 2025-11-20 at 2 34 24 PM" src="https://github.com/user-attachments/assets/eb977521-8e4f-44f1-956d-60adb0227bf9" />
 
