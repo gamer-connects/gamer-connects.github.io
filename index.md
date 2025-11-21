@@ -1,6 +1,6 @@
 # Overview
 
-Gamer Connect is a web application that helps UH students discover and connect with other gamers on campus based on their favorite games, skill levels, gaming goals (casual play, ranked competition, streaming, etc.), and availability. By creating detailed gamer profiles, students can find like-minded players to form teams, join communities, or just find new friends to play with.
+UH Connect is a web application that helps UH students discover and connect with other gamers on campus based on their favorite games, skill levels, gaming goals (casual play, ranked competition, streaming, etc.), and availability. By creating detailed gamer profiles, students can find like-minded players to form teams, join communities, or just find new friends to play with.
 
 # Future Additions
 
@@ -69,3 +69,15 @@ The admin page will include:
 ### Risk Management Worksheet
 
 <img width="429" height="290" alt="Screenshot 2025-11-20 at 2 45 15 PM" src="https://github.com/user-attachments/assets/bcf31318-0667-472e-aab9-53141ee36141" />
+
+### Milestone 1
+
+[Milestone 1 Project Board](https://github.com/orgs/gamer-connects/projects/1/views/3)
+
+### Team
+
+-	Jenebryan Mercado
+-	Andrew Bushong
+-	Richard Masuda
+-	Nalani Klopfenstein
+-	Jiaxing Feng
