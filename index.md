@@ -31,7 +31,8 @@ Unlike general gaming platforms like Discord or Reddit, UH Connect provides a cu
 
 ### Sign Up/Sign In
 
-[Screenshot coming soon]
+![](images/signup-page.png)
+![](images/signin-page.png)
 
 ### User Profile Page
 
