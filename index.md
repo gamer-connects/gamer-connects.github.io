@@ -1,6 +1,6 @@
 # Overview
 
-Gamer Connect is a web application that helps UH students discover and connect with other gamers on campus based on their favorite games, skill levels, gaming goals (casual play, ranked competition, streaming, etc.), and availability. By creating detailed gamer profiles, students can find like-minded players to form teams, join communities, or just find new friends to play with.
+UH Connect is a web application that helps UH students discover and connect with other gamers on campus based on their favorite games, skill levels, gaming goals (casual play, ranked competition, streaming, etc.), and availability. By creating detailed gamer profiles, students can find like-minded players to form teams, join communities, or just find new friends to play with.
 
 ## What makes UH Connect special:
 
@@ -21,7 +21,7 @@ Unlike general gaming platforms like Discord or Reddit, UH Connect provides a cu
 - **Team Contract:** [View Team Contract](https://docs.google.com/document/d/1T8ZwthSHFkZXGYaHPbhu9UNYf5ETw5f2L7wtiD0ZBfA/edit?tab=t.0)
 - **GitHub Organization:** [gamer-connects](https://github.com/gamer-connects)
 - **M1 Project Board:** [Milestone 1](https://github.com/orgs/gamer-connects/projects/1/views/3)
-- **M2 Project Board:** [Milestone 2](https://github.com/orgs/gamer-connects/projects/2/views/3))
+- **M2 Project Board:** [Milestone 2](https://github.com/orgs/gamer-connects/projects/2/views/3)
 
 ## User Guide
 
