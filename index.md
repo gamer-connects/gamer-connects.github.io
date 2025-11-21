@@ -48,6 +48,11 @@ The admin page will include:
 - Review flagged content/messages
 - Add user suggested games
 
+### Team Contract
+
+<img width="410" height="666" alt="Screenshot 2025-11-20 at 2 43 31 PM" src="https://github.com/user-attachments/assets/e1ab533c-57fd-4402-87d1-32012e3e0f96" />
+ct 
+
 ### Use case diagrams 
 
 
@@ -57,3 +62,5 @@ The admin page will include:
 
 <img width="677" height="382" alt="Screenshot 2025-11-20 at 2 34 24 PM" src="https://github.com/user-attachments/assets/eb977521-8e4f-44f1-956d-60adb0227bf9" />
 
+### Risk Management Worksheet
+<img width="677" height="382" alt="Screenshot 2025-11-20 at 2 41 44 PM" src="https://github.com/user-attachments/assets/89ebd983-fc37-4e0d-879e-ae2c16c0938f" />
