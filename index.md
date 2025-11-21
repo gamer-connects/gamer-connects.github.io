@@ -27,7 +27,7 @@ Unlike general gaming platforms like Discord or Reddit, UH Connect provides a cu
 
 ### Landing Page
 
-[Screenshot coming soon]
+![](images/landing-page.png)
 
 ### Sign Up/Sign In
 
@@ -36,7 +36,7 @@ Unlike general gaming platforms like Discord or Reddit, UH Connect provides a cu
 
 ### User Profile Page
 
-<img width="1225" height="670" alt="profile page mockup" src="https://github.com/user-attachments/assets/b08647fb-f3d5-44b9-9854-563af3919165" />
+![](images/profiles-page.png)
 
 ### Home Page
 
