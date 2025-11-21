@@ -48,6 +48,11 @@ The admin page will include:
 - Review flagged content/messages
 - Add user suggested games
 
+### Deployment
+
+-Live site: https://uh-connect.vercel.app/
+-Repo site: https://github.com/gamer-connects/Project-UHConnect.git
+
 ### Team Contract
 
 <img width="410" height="666" alt="Screenshot 2025-11-20 at 2 43 31 PM" src="https://github.com/user-attachments/assets/e1ab533c-57fd-4402-87d1-32012e3e0f96" />
