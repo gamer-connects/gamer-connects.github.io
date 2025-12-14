@@ -43,10 +43,10 @@ Unlike general gaming platforms like Discord or Reddit, UH Connect provides a cu
 
 ### Home Page
 
-![](images/homepage.png)
+![](images/homepageupdate.png)
 
 ### Game Page
-![](images/gamepage.png)
+![](images/gamepageupdate.png)
 
 ### User Search Page
 
