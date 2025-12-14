@@ -89,6 +89,7 @@ Unlike general gaming platforms like Discord or Reddit, UH Connect provides a cu
 *“Really clean interface and easy to navigate. I especially like how fast everything loads and how simple it is to find what I’m looking for.”*
 
 *“I like how the community aspect works and following users is easy. It would be nice to have a way to bookmark or save favorite posts for later.”*
+
 ---
 
 ## Developer Guide
