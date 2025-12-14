@@ -80,8 +80,15 @@ Unlike general gaming platforms like Discord or Reddit, UH Connect provides a cu
 <img width="429" height="290" alt="Screenshot 2025-11-20 at 2 45 15 PM" src="https://github.com/user-attachments/assets/bcf31318-0667-472e-aab9-53141ee36141" />
 
 ## Community Feedback
-*Coming soon — will include user impressions, feature requests, and comments gathered from early testers.*
+*“I really like the clean layout and how easy it is to navigate. It would be great to have a light mode toggle for people who enjoy lighter themes.”*
 
+*“Posting and interacting feels smooth, and everything is intuitive. Maybe adding a way to filter posts by tags would help find relevant content faster.”*
+
+*“The community features are solid. Following users and seeing shared interests makes the app feel more personal.”*
+
+*“Really clean interface and easy to navigate. I especially like how fast everything loads and how simple it is to find what I’m looking for.”*
+
+*“I like how the community aspect works and following users is easy. It would be nice to have a way to bookmark or save favorite posts for later.”*
 ---
 
 ## Developer Guide
