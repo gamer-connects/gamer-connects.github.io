@@ -55,6 +55,15 @@ Unlike general gaming platforms like Discord or Reddit, UH Connect provides a cu
 ### Edit Profile Page
 ![](images/Edit_profile.png)
 
+### Create Post Page
+![](images/createpostpage.png)
+
+### Event Request Page
+![](images/eventrequestpage.png)
+
+### Game Post Page
+![](images/gamepost.png)
+
 ### Admin Page
 ![](images/adminpage.png)
 
